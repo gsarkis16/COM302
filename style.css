@@ -10,7 +10,8 @@ a:hover {
             margin: 0;
             padding: 0;
             position: relative;
-            width: 269px;
+            display: flex;
+            justify-content: center!important;
             height: auto;
             overflow: auto;	
             margin-right: auto;
@@ -68,11 +69,6 @@ a:hover {
             display: table;
             clear: both;
         }
-		.prepare {
-			text-align: left;
-			float: left;
-            width: 25%;
-		}
 		.responsive_md2 {
 			float: left;
             width: 50%;
