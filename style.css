@@ -28,6 +28,7 @@ a:hover {
 
         ul.sidenav li a:hover:not(.active) {
             background-color: #147432;
+		Background: #code!important;
             color: white;
         }
 /**responsive images**/
